@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Siraphat Supatthananon"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "My name is Siraphat Supatthananon But you can call me nine "
+  location         : "Thailand"
+  employer         : "king mongkut's university of technology thonburi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nine6642@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
