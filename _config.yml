@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Siraphat Supatthananon/ Site Title"
+title                    : "Siraphat Supatthananon"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   name             : "Siraphat Supatthananon"
   pronouns         : # example: "she/her"  
   bio              : "My name is Siraphat Supatthananon But you can call me nine "
-  location         : "Thailand"
+  location         : "Bangkok, Thailand"
   employer         : "king mongkut's university of technology thonburi"
   uri              : # URL
   email            : "nine6642@gmail.com" 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
