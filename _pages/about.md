@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Siraphat Supatthananon" 🐻
+title: "Siraphat Supatthananon 🐻"
 author_profile: true
 redirect_from: 
   - /about/
